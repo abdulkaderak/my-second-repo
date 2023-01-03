@@ -1,3 +1,17 @@
 h1{
     color: brown;
 }
+.blog{
+    background-color: black;
+    color: aliceblue;
+    border: 80px solid gold;
+    /* border-width: 50%; */
+    text-align: center;
+    /* margin: 30px; */
+    margin: 40px;
+    padding: 80px;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
